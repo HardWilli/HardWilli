@@ -1,4 +1,4 @@
-#👋 Hi there, I’m William Peltier
+# 👋 Hi there, I’m William Peltier
 
 - 📚 Currently, I'm a french student at CentraleSupélec and ESSEC, where I'm diving deep into the realms of engineering and business.
 
